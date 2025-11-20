@@ -1,0 +1,9 @@
+<!-- Simple, crisp favicon matching brand -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#111111"/>
+  <g fill="#39FF14">
+    <!-- stylized wrench/leaf mark -->
+    <path d="M24 14c-4 4-6 9-5 13 1 5 6 7 8 8l-2 9h10l-2-9c3-1 7-4 8-8 1-4-1-9-5-13-2-2-6-2-8 0z"/>
+    <text x="32" y="50" font-size="18" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700">Y2</text>
+  </g>
+</svg>
